@@ -1,3 +1,12 @@
+# Fork Info
+
+This is my fork of llama.cpp focusing on improvements for my current CPU (SYCL backend).
+Upstream will be synced with `master` branch, while my changes will be merged into `develop` branch.
+There will be a permanent draft PR showing differences between `master` and `develop` branch.
+
+Extra files or folders that I add will be prefixed with `_` such as the `_benchmarks` folder which will contain benchmark results
+
+
 # llama.cpp
 
 ![llama](https://user-images.githubusercontent.com/1991296/230134379-7181e485-c521-4d23-a0d6-f7b3b61ba524.png)
